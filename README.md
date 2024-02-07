@@ -1,3 +1,4 @@
 # first
+
 Just learning
-Author : Ayush Gurung
+Author : Ayush Gurung (sparky)
